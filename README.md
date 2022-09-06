@@ -1,5 +1,7 @@
 # WebSocket Chat
 
+![screenshot of chat app](./screenshot.png)
+
 ## Getting started
 
 
